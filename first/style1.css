@@ -1,0 +1,91 @@
+html, body {
+	height: 98%;
+	width: 98%;
+	margin: 2%;
+	padding: 0;
+}
+
+.box {
+	height: 17%;
+	width: 26%;
+	background-color: #D0021B;
+	display: inline-block;
+
+}
+
+.center {
+	background-color: #4A90E2;
+	margin: 0 6% 0 6%;
+
+}
+
+.right {
+	background-color: #4A4A4A;
+}
+
+.text {
+	width: 92%;
+	height: 21%;
+}
+
+p {
+	width: 100%;
+	font-family: Verdana, sans-serif;
+	color: #474A4E;
+	font-size: .7em;
+}
+
+.containerOne {
+	width: 100%;
+	height: 40%;
+}
+
+.redOne {
+	width: 30%;
+	height: 100%;
+	background-color: #D0021B;
+	float: left;
+}
+
+.blueOne {
+	width: 60%;
+	height: 100%;
+	background-color: #4A90E2;
+	float: left;
+}
+
+.containerTwo {
+	width: 90%;
+	height: 20%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+.blueTwo {
+	width: 70%;
+	height: 100%;
+	background-color: #4A90E2;
+	float: left;
+}
+
+.redTwo {
+	width: 5%;
+	height: 100%;
+	background-color: #D0021B;
+	float: left;
+}
+
+.grayTwo {
+	width: 20%;
+	height: 100%;
+	background-color: #4A4A4A;
+	float: left;
+}
+
+.redTwoB {
+	width: 5%;
+	height: 100%;
+	background-color: #D0021B;
+	float: left
+}
+
