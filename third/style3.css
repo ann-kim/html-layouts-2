@@ -21,12 +21,12 @@ header {
 }
 
 .column {
-	width: 40%;
+	width: 45%;
 	font-family: sans-serif;
 	font-size: .7em;
 	text-align: left;
 	float: left;
-	margin: 45px 25px 45px 25px;
+	padding: 25px;
 }
 
 span {
